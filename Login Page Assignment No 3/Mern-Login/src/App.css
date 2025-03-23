@@ -1,0 +1,12 @@
+body {
+  background-image: url('./assets/bg.avif');
+  mask-repeat: no-repeat;
+  background-size: cover; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0;
+}
+

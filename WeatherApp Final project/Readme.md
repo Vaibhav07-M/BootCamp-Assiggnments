@@ -105,8 +105,3 @@ We welcome contributions! Feel free to fork this repository, make changes, and s
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and share.
-
-## Developer Contact
-- **Name:** Developer  
-- **Email:** your-email@example.com  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)

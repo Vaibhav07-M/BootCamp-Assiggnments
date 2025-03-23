@@ -1,0 +1,52 @@
+.Box {
+    margin: 0 auto; /* Center horizontally */
+    background-color: rgba(194, 131, 131, 0.6); /* Combined background color and opacity */
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;  
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.Box p {
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    width: 100%; /* Full width of the container */
+}
+  
+.usernamebox {
+    background-color: rgb(247, 247, 247);
+    height: 28px;
+    width: 200px;
+    opacity: 1.0;
+    margin-bottom: 10px; /* Add some space below */
+    display: flex;
+    align-items: center;
+}
+
+.usernamebox input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.loginsignuppagechange {
+    align-items: center;  
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.eye-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-left: -30px;
+}
