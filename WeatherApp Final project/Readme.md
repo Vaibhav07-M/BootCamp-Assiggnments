@@ -80,26 +80,6 @@ This app integrates with WeatherAPI to fetch real-time weather data.
 ```bash
 https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CityName
 
-## Screenshots
-
-1. **Splash Screen**  
-   ![alt text](image.png)
-
-2. **Home Screen**  
-   ![alt text](image-1.png)
-
-3. **Foreast Screen**
-   ![alt text](image-2.png)
-
-4. **Search Screen**  
-   ![alt text](image-3.png)
-
-5. **Favorites Screen**  
-   ![alt text](image-4.png)
-
-6. **Settings Screen**  
-   ![alt text](image-5.png)
-
 ## Contributing
 We welcome contributions! Feel free to fork this repository, make changes, and submit pull requests. If you find any bugs or issues, please report them via GitHub.
 
